@@ -46,7 +46,7 @@ body {
 	opacity: 0;
 	z-index: 1;
 }
-#img-container:hover .svg-icon {
+#img-container:hover #svg-icon {
 	opacity: 1;
 }
 #svg-icon:hover {
